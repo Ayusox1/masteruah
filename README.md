@@ -29,7 +29,8 @@
     </tr>
   </tbody>
 </table>
-<h1>Comandos<h1>
+<h1>Comandos</h1>
+    <h4>
 <li>
         git clone https://github.com/Ayusox1/masteruah
     </li>
@@ -138,3 +139,4 @@
     <li>
         cat github.pub
     </li>
+</h4>
